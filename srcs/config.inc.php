@@ -1,5 +1,5 @@
 <?php
-   $cfg['blowfish_secret'] = '31h15u8gr7wq99.24633480';
+   $cfg['blowfish_secret'] = '.24633480'; //create your own
    $i = 0;
    $i++;
    $cfg['Servers'][$i]['host'] = 'localhost';

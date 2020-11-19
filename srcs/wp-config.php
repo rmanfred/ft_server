@@ -41,7 +41,7 @@ define('DB_COLLATE', '');
  */
 define('AUTH_KEY',         '[6(-<w+2-2j2OZ<9R0v-#G.EG@LTHPYC<]Qc!$YPzYk|(3ZHrpd[N:tm#qf/d0il');
 define('SECURE_AUTH_KEY',  'SpF.(Z#C{} F}cnK/Rhh0?<W2/)C1!nj+rf!)q=1iyhe/]bPE_X{<!}1yeBX;%uH');
-define('LOGGED_IN_KEY',    'XC_F4Gk@HjW9a/%Lh4,%mL&`J-XuCek~!Sj`l)vLs*Vf?t[N+OOCqvqxR1Aw7#f ');
+define('LOGGED_IN_KEY',    'XC_F4Gk@HjW9a/%Lh4,%mL&`J-aewee~!Sj`l)vLs*Vf?t[N+OOCqvqxR1Aw7#f ');
 define('NONCE_KEY',        '!c_tR{4K#fQ_g9ya[Og:_]CIE*<?YSU7ut9zE$/QOtiY,kMmw|z|<JBA2Vc.)Tb0');
 define('AUTH_SALT',        '~|MK,9VVl7L}l0)mjr?}f9:XD,nZbIt3;-nl=1z|Uv,-#/[Io dgiSob=^?AjVvl');
 define('SECURE_AUTH_SALT', 'zPEP[T_Eiq:692%k9 BO-&ejF2$$x^-v Zs>c.W}}%_s:g_S|^/Q>&Fq_Y69rVhd');
